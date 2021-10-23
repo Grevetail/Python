@@ -1,0 +1,12 @@
+body{
+    font-family: -system ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: darkslategray;
+    color: floralwhite;
+ }
+
+ p{
+     font-weight: bold;
+     margin: 1em 2em;
+ }
